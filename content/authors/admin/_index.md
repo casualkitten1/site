@@ -4,7 +4,7 @@ title: Serenitea With Ketamine
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👽
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,8 +14,7 @@ role: Just another sysadmin
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: TEST
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -24,19 +23,13 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/SereniteawithK
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  - icon: brands/orcid
-    url: https://www.orcid.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+  - icon: brands/telegram
+    url: https://t.me/sereniteawithketamine
 ---
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
