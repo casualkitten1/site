@@ -25,13 +25,8 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/SereniteawithK
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
   - icon: brands/telegram
     url: https://t.me/sereniteawithketamine
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+python, live memory editing, drm cracking (games/softwares/etc), large-scale content distribution CDNs, hot/cold data archival, graphic/video design, system admin, web security, operational security, data processing, linux, windows server/desktop, project management, cryptography, onion routing, web-hosting, VPS and other things…
